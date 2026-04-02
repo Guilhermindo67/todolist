@@ -1,8 +1,8 @@
 function Footer(){
 
     return(
-        <footer className="mt-20 w-full mx-auto p-4 md:flex md:items-center md:justify-between bg-blue-900">
-            Footer
+        <footer className="border-t-2 border-white/10 mt-20 w-full p-6 text-white/70">
+            Desenvolvido por: Guilherme Almeida Bezerra
 
         </footer>
     )
